@@ -1,0 +1,21 @@
+title:       "Memo"
+version:     "002---24-Mar-2021"
+copyright:   "2021-2021"
+description: >- 
+  This Is How Me Do It!
+# baseurl: "" # e.g. /blog
+# url: ""     # e.g. http://example.com
+google_analytics: "UA-89852122-6"
+author:           "Rahmat M. Samik-Ibrahim"
+address:          "Pamulang"
+sitemap:          "true"
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+urlweb:           "https://memos.vlsm.org/"
+urlcontact:       "TBS"
+urlgithub:        "https://github.com/rms46/memos/"
+urlghpage:        "https://rms46.github.io/memos/"
+keywords:         "memos"
+github:           [metadata]
+
